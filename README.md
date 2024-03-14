@@ -1,3 +1,4 @@
 # clone
-This is a instagram clone.
-author-mahatma doley
+this is a instagram clone
+<br>
+Author-MAHATMA DOLEY
